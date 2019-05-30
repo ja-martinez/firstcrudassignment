@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/troyamelotte/firstcrudassignment#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.17.1"
   }
 }
